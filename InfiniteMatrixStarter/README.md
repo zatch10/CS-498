@@ -1,7 +1,7 @@
 ### Refrences:
 
-* Inspired from [Tommy Trans Tutorial](https://www.raywenderlich.com/454-how-to-create-a-simple-game-in-unreal-engine-4)
+* [Game assets](https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit-games)
 
 * [Health texture](https://unrealtutorials.com/downloadable-content/static-mesh/)
 
-* [Agent Smith](https://www.artstation.com/artwork/6qoWx)
+* [Roll mechanic](https://www.youtube.com/watch?time_continue=16&v=j6NfpUzYLmM&feature=emb_logo&ab_channel=Beardgames)
