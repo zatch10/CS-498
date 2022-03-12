@@ -1,0 +1,1427 @@
+﻿Log file open, 03/08/22 22:15:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UnrealLearningKitGames
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.252857
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin StylusInput
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin ModelingToolsEditorMode
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin MeshModelingToolset
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin HairStrands
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 4700U with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Engine.ini]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[r.MobileMSAA:4]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:1]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[r.SSGI.Enable:1]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:0]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:1]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Engine.ini]
+[2022.03.09-04.15.35:462][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Engine.ini]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Engine.ini]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.09-04.15.35:462][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Engine.ini]
+[2022.03.09-04.15.35:462][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Engine.ini]
+[2022.03.09-04.15.35:467][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Scalability.ini]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Scalability.ini]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Scalability.ini]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Scalability.ini]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.09-04.15.35:467][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Scalability.ini]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Scalability.ini]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Scalability.ini]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Scalability.ini]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.09-04.15.35:468][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2022.03.09-04.15.35:468][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.09-04.15.35:468][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.09-04.15.35:469][  0]LogHAL: Display: Platform has ~ 16 GB [16505954304 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.09-04.15.35:469][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.09-04.15.35:469][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Scalability.ini]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Scalability.ini]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Scalability.ini]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Scalability.ini]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Scalability.ini]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Scalability.ini]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Scalability.ini]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.09-04.15.35:469][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Scalability.ini]
+[2022.03.09-04.15.35:469][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.09-04.15.35:470][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.09-04.15.35:470][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.09-04.15.35:470][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2022.03.09-04.15.35:470][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.09-04.15.35:470][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.09-04.15.35:470][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.09-04.15.35:470][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.09-04.15.35:470][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Engine.ini]
+[2022.03.09-04.15.35:470][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Config/Windows/Editor.ini]
+[2022.03.09-04.15.35:470][  0]LogInit: Computer: LAPTOP-719NOJ1R
+[2022.03.09-04.15.35:470][  0]LogInit: User: chirag
+[2022.03.09-04.15.35:470][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.03.09-04.15.35:470][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.09-04.15.35:470][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2022.03.09-04.15.35:470][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.09-04.15.35:470][  0]LogMemory: Process Physical Memory: 145.68 MB used, 145.69 MB peak
+[2022.03.09-04.15.35:470][  0]LogMemory: Process Virtual Memory: 121.06 MB used, 121.06 MB peak
+[2022.03.09-04.15.35:470][  0]LogMemory: Physical Memory: 8550.02 MB used,  7191.29 MB free, 15741.30 MB total
+[2022.03.09-04.15.35:470][  0]LogMemory: Virtual Memory: 134209016.00 MB used,  8713.14 MB free, 134217728.00 MB total
+[2022.03.09-04.15.35:475][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.09-04.15.35:499][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.09-04.15.35:500][  0]LogInit: Using OS detected language (en-US).
+[2022.03.09-04.15.35:500][  0]LogInit: Using OS detected locale (en-US).
+[2022.03.09-04.15.35:503][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.03.09-04.15.35:720][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.09-04.15.35:737][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.09-04.15.35:750][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.09-04.15.35:750][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.09-04.15.35:875][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.03.09-04.15.35:924][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.03.09-04.15.35:924][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.09-04.15.35:924][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.03.09-04.15.35:924][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.09-04.15.35:973][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2022.03.09-04.15.35:973][  0]LogD3D11RHI:       495/0/7870 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2022.03.09-04.15.35:976][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.03.09-04.15.35:976][  0]LogD3D11RHI:       0/0/7870 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.09-04.15.35:976][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.03.09-04.15.35:976][  0]LogD3D11RHI:     Description : AMD Radeon(TM) Graphics
+[2022.03.09-04.15.35:976][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.03.09-04.15.35:976][  0]LogD3D11RHI:     DeviceId    : 1636
+[2022.03.09-04.15.35:976][  0]LogD3D11RHI:     SubSysId    : 380c17aa
+[2022.03.09-04.15.35:976][  0]LogD3D11RHI:     Revision    : 00c2
+[2022.03.09-04.15.35:976][  0]LogD3D11RHI:     DedicatedVideoMemory : 520073216 bytes
+[2022.03.09-04.15.35:976][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.09-04.15.35:976][  0]LogD3D11RHI:     SharedSystemMemory : 8252977152 bytes
+[2022.03.09-04.15.35:976][  0]LogD3D11RHI:     AdapterLuid : 0 52551
+[2022.03.09-04.15.35:984][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.09-04.15.35:984][  0]LogD3D11RHI:     GPU DeviceId: 0x1636 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.09-04.15.35:984][  0]LogWindows: EnumDisplayDevices:
+[2022.03.09-04.15.35:984][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2022.03.09-04.15.35:985][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.03.09-04.15.35:985][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.03.09-04.15.35:985][  0]LogWindows:    3. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.03.09-04.15.35:986][  0]LogWindows:    4. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.03.09-04.15.35:986][  0]LogWindows:    5. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.03.09-04.15.35:986][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2022.03.09-04.15.35:986][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) Graphics
+[2022.03.09-04.15.35:986][  0]LogD3D11RHI:   Driver Version: Adrenalin 21.10.30.01 (internal:27.20.21030.1005, unified:27.20.21030.1005)
+[2022.03.09-04.15.35:986][  0]LogD3D11RHI:      Driver Date: 7-9-2021
+[2022.03.09-04.15.35:986][  0]LogRHI: Texture pool is 5384 MB (70% of 7692 MB)
+[2022.03.09-04.15.36:003][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2022.03.09-04.15.36:003][  0]LogD3D11RHI:     Description : AMD Radeon(TM) Graphics
+[2022.03.09-04.15.36:003][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.03.09-04.15.36:003][  0]LogD3D11RHI:     DeviceId    : 1636
+[2022.03.09-04.15.36:003][  0]LogD3D11RHI:     SubSysId    : 380c17aa
+[2022.03.09-04.15.36:003][  0]LogD3D11RHI:     Revision    : 00c2
+[2022.03.09-04.15.36:003][  0]LogD3D11RHI:     DedicatedVideoMemory : 520073216 bytes
+[2022.03.09-04.15.36:003][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.09-04.15.36:003][  0]LogD3D11RHI:     SharedSystemMemory : 8252977152 bytes
+[2022.03.09-04.15.36:003][  0]LogD3D11RHI:     AdapterLuid : 0 52551
+[2022.03.09-04.15.36:038][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2022.03.09-04.15.36:038][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.03.09-04.15.36:038][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.09-04.15.36:038][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.03.09-04.15.36:055][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2022.03.09-04.15.36:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.09-04.15.36:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.09-04.15.36:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.09-04.15.36:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.09-04.15.36:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.09-04.15.36:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.09-04.15.36:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.09-04.15.36:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.09-04.15.36:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.09-04.15.36:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.09-04.15.36:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.09-04.15.36:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.09-04.15.36:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.09-04.15.36:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.09-04.15.36:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.03.09-04.15.36:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.09-04.15.36:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.09-04.15.36:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.03.09-04.15.36:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.03.09-04.15.36:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.03.09-04.15.36:514][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.09-04.15.36:514][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.09-04.15.36:523][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.03.09-04.15.36:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.03.09-04.15.36:534][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.03.09-04.15.36:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.03.09-04.15.36:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.09-04.15.36:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.09-04.15.36:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.09-04.15.36:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.09-04.15.36:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.09-04.15.36:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.09-04.15.36:575][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.09-04.15.36:584][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.09-04.15.36:622][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.03.09-04.15.36:652][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.09-04.15.36:652][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Intermediate/Shaders/WorkingDirectory/12208/).
+[2022.03.09-04.15.36:652][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/chira/AppData/Local/Temp/UnrealShaderWorkingDir/9197B80C46308C22F8E062844A224356/'.
+[2022.03.09-04.15.36:652][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.03.09-04.15.36:652][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.09-04.15.36:652][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.09-04.15.37:489][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.09-04.15.37:565][  0]LogDerivedDataCache: Loaded boot cache 0.08s 120MB C:/Users/chira/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.09-04.15.37:565][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/chira/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.03.09-04.15.37:565][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.09-04.15.37:565][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.09-04.15.37:565][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.09-04.15.37:566][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.09-04.15.37:585][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.09-04.15.37:585][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.09-04.15.37:585][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.09-04.15.37:595][  0]LogDerivedDataCache: Speed tests for C:/Users/chira/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.03.09-04.15.37:595][  0]LogDerivedDataCache: Display: Performance to C:/Users/chira/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=1062.86MBs, RandomWriteSpeed=105.09MBs. Assigned SpeedClass 'Local'
+[2022.03.09-04.15.37:596][  0]LogDerivedDataCache: Using Local data cache path C:/Users/chira/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.09-04.15.37:597][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.09-04.15.37:597][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.09-04.15.37:648][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.09-04.15.37:649][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.09-04.15.37:649][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.03.09-04.15.37:671][  0]LogAssetRegistry: FAssetRegistry took 0.0039 seconds to start up
+[2022.03.09-04.15.37:901][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.09-04.15.37:901][  0]LogInit: Active device profile: [000002C0B8735100][000002C0B4EC4580 49] Windows
+[2022.03.09-04.15.37:901][  0]LogInit: Profiles: [000002C0B8735100][000002C0B4EC4580 49] Windows, [000002C0B86E6600][000002C0B4F20700 49] WindowsNoEditor, [000002C0B8736200][000002C0B4EF6840 49] WindowsServer, [000002C0B86E5800][000002C0B4F24980 49] WindowsClient, [000002C0B8735700][000002C0B4F2CAC0 49] IOS, [000002C0B86E6800][000002C0B68B0C00 49] iPadAir, [000002C0B8737C00][000002C0B68C8D80 49] iPadAir2, [000002C0B8445400][000002C0B68DD040 49] IPadPro, [000002C0B8445500][000002C0B68D9080 49] iPadAir3, [000002C0B86E7900][000002C0B68E1200 49] iPadAir4, [000002C0B8446300][000002C0B68E5380 49] iPadMini2, [000002C0B86E7000][000002C0B68ED500 49] iPadMini3, [000002C0B8446F00][000002C0B9373680 49] iPadMini4, [000002C0B86E5D00][000002C0B695D800 49] iPadMini5, [000002C0B8479000][000002C0B6965AC0 49] iPhone6, [000002C0B8479100][000002C0B6961B00 49] iPodTouch6, [000002C0B8737900][000002C0B7E2E240 49] iPhone7, [000002C0B8736900][000002C0B6968280 49] iPodTouch7, [000002C0B8445000][000002C0B698C400 49] iPhone5S, [000002C0B8736F00][000002C0B7ECC580 49] iPhone6Plus, [000002C0B8447600][000002C0B7ED0700 49] iPhone6S, [000002C0B8734C00][000002C0B7ED4880 49] iPhone6SPlus, [000002C0B8735D00][000002C0B68BC9C0 49] iPhone7Plus, [000002C0B8478800][000002C0B7ED8B00 49] iPhoneSE, [000002C0B8734400][000002C0B9788C40 49] iPhone8, [000002C0B8478900][000002C0B978CD80 49] iPhone8Plus, [000002C0B847AE00][000002C0B7E46F00 49] iPhoneX, [000002C0B8445D00][000002C0B4DB9080 49] iPhoneXS, [000002C0B847A700][000002C0B4DBD200 49] iPhoneXSMax, [000002C0B8445C00][000002C0B904F380 49] iPhoneXR, [000002C0B847A800][000002C0B9063500 49] iPhone11, [000002C0B8444F00][000002C0B909D680 49] iPhone11Pro, [000002C0B8478B00][000002C0B90A1800 49] iPhone11ProMax, [000002C0B8444D00][000002C0B90CF980 49] iPhoneSE2, [000002C0B8478E00][000002C0B90D7B00 49] iPhone12Mini, [000002C0B8737800][000002C0B9220100 49] iPhone12, [000002C0B847B000][000002C0B9224280 49] iPhone12Pro, [000002C0B8737700][000002C0B9250400 49] iPhone12ProMax, [000002C0B8479E00][000002C0B9254580 49] iPadPro105, [000002C0B8735300][000002C0B9258700 49] iPadPro129, [000002C0B847BE00][000002C0B97CE880 49] iPadPro97, [000002C0B8735C00][000002C0B97D2A00 49] iPadPro2_129, [000002C0B847A000][000002C0B97D6B80 49] iPad5, [000002C0B8736300][000002C0B7E42CC0 49] iPad6, [000002C0B847BB00][000002C0B995EE00 49] iPad7, [000002C0B8735E00][000002C0B925CF40 49] iPad8, [000002C0B8478A00][000002C0B926B0C0 49] iPadPro11, [000002C0B8736600][000002C0B7DDF240 49] iPadPro2_11, [000002C0B8478F00][000002C0B7DE33C0 49] iPadPro3_129, [000002C0B8736800][000002C0B7DE7540 49] iPadPro4_129, [000002C0B847BC00][000002C0B7DEB6C0 49] AppleTV, [000002C0B8735A00][000002C0B9303840 49] AppleTV4K, [000002C0B847A600][000002C0B93139C0 49] TVOS, [000002C0B8736100][000002C0B931DB40 49] Mac, [000002C0B847AF00][000002C0B9320140 49] MacClient, [000002C0B8736A00][000002C0B932C2C0 49] MacNoEditor, [000002C0B847AC00][000002C0B9330440 49] MacServer, [000002C0B8737000][000002C0B93345C0 49] Linux, [000002C0B8478400][000002C0B9338740 49] LinuxAArch64, [000002C0B8734700][000002C0B7EA68C0 49] LinuxNoEditor, [000002C0B847B700][000002C0B7EAEA40 49] LinuxAArch64NoEditor, [000002C0B8737B00][000002C0B7EB2BC0 49] LinuxClient, [000002C0B847B400][000002C0B7EB6D40 49] LinuxAArch64Client, [000002C0B8737E00][000002C0B9260E80 49] LinuxServer, [000002C0B8478700][000002C0B7EC4FC0 49] LinuxAArch64Server, [000002C0B8735F00][000002C0B7EC9100 49] Android, [000002C0B847AA00][000002C0B976D240 49] Android_Low, [000002C0B8736D00][000002C0B97753C0 49] Android_Mid, [000002C0B8479F00][000002C0B7EBB540 49] Android_High, [000002C0B8736B00][000002C0B7EAB6C0 49] Android_Default, [000002C0B8478100][000002C0B9779840 49] Android_Adreno4xx, [000002C0B8734500][000002C0B696D9C0 49] Android_Adreno5xx_Low, [000002C0B8479400][000002C0B6971B40 49] Android_Adreno5xx, [000002C0B8737400][000002C0B6974140 49] Android_Adreno6xx, [000002C0B847A300][000002C0B69782C0 49] Android_Adreno6xx_Vulkan, [000002C0B8737D00][000002C0B697C440 49] Android_Mali_T6xx, [000002C0B8478200][000002C0B69805C0 49] Android_Mali_T7xx, [000002C0B8737600][000002C0B6984740 49] Android_Mali_T8xx, [000002C0B847B200][000002C0B69888C0 49] Android_Mali_G71, [000002C0B8447100][000002C0B96F2A40 49] Android_Mali_G72, [000002C0B86E6E00][000002C0B9238BC0 49] Android_Mali_G72_Vulkan, [000002C0B8446B00][000002C0B9234D40 49] Android_Mali_G76, [000002C0B86E4500][000002C0B9230EC0 49] Android_Mali_G76_Vulkan, [000002C0B8444C00][000002C0B9771000 49] Android_Mali_G77, [000002C0B86E4600][000002C0B922D140 49] Android_Mali_G77_Vulkan, [000002C0B8446400][000002C0B9229280 49] Android_Mali_G78, [000002C0B86E4D00][000002C0B90D33C0 49] Android_Mali_G78_Vulkan, [000002C0B8447D00][000002C0B68F1540 49] Android_Mali_G710, [000002C0B86E6A00][000002C0B934B6C0 49] Android_Mali_G710_Vulkan, [000002C0B8446A00][000002C0B934F840 49] Android_Vulkan_SM5, [000002C0B86E5900][000002C0B93539C0 49] Android_PowerVR_G6xxx, [000002C0B8444500][000002C0B9357B40 49] Android_PowerVR_GT7xxx, [000002C0B86E4200][000002C0B935A140 49] Android_PowerVR_GE8xxx, [000002C0B8447B00][000002C0B935E2C0 49] Android_PowerVR_GM9xxx, [000002C0B86E6000][000002C0B9362440 49] Android_PowerVR_GM9xxx_Vulkan, [000002C0B8445F00][000002C0B93665C0 49] Android_TegraK1, [000002C0B86E4A00][000002C0B936A740 49] Android_Unknown_Vulkan, [000002C0B8447900][000002C0B936E8C0 49] Lumin, [000002C0B86E5100][000002C0B96F6A40 49] Lumin_Desktop, [000002C0B8446000][000002C0B96FABC0 49] HoloLens, 
+[2022.03.09-04.15.38:018][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.09-04.15.38:018][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.09-04.15.38:018][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.09-04.15.38:018][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.09-04.15.38:018][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.09-04.15.38:033][  0]LogNetVersion: UnrealLearningKitGames 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3929096282)
+[2022.03.09-04.15.38:396][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.03.09-04.15.38:520][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.09-04.15.38:527][  0]LogUObjectArray: 17947 objects as part of root set at end of initial load.
+[2022.03.09-04.15.38:527][  0]LogUObjectAllocator: 4584912 out of 0 bytes used by permanent object pool.
+[2022.03.09-04.15.38:527][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.09-04.15.38:816][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 6DD703554590385523BEE5ADDD2E3F42 | Instance: 295AF736478CC42F172D20AD6EAB3484 (LAPTOP-719NOJ1R-12208).
+[2022.03.09-04.15.38:948][  0]LogPython: Using Python 3.7.7
+[2022.03.09-04.15.39:437][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.09-04.15.39:442][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.09-04.15.39:681][  0]SourceControl: Source control is disabled
+[2022.03.09-04.15.39:681][  0]SourceControl: Source control is disabled
+[2022.03.09-04.15.39:686][  0]SourceControl: Source control is disabled
+[2022.03.09-04.15.39:689][  0]SourceControl: Source control is disabled
+[2022.03.09-04.15.39:696][  0]SourceControl: Source control is disabled
+[2022.03.09-04.15.39:924][  0]LogOpenImageDenoise: OIDN starting up
+[2022.03.09-04.15.39:927][  0]LogUProjectInfo: Found projects:
+[2022.03.09-04.15.39:947][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.09-04.15.39:972][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.09-04.15.39:972][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.09-04.15.40:113][  0]LogCollectionManager: Loaded 0 collections in 0.001613 seconds
+[2022.03.09-04.15.40:143][  0]LogFileCache: Scanning file cache for directory 'C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Collections/' took 0.00s
+[2022.03.09-04.15.40:143][  0]LogFileCache: Scanning file cache for directory 'C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/Developers/chirag/Collections/' took 0.00s
+[2022.03.09-04.15.40:143][  0]LogFileCache: Scanning file cache for directory 'C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/Collections/' took 0.00s
+[2022.03.09-04.15.40:143][  0]LogOcInput: OculusInput pre-init called
+[2022.03.09-04.15.40:357][  0]LogClass: Display: IntProperty FPhysicsConvexData::NumVertices is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.03.09-04.15.40:357][  0]LogClass: Display: IntProperty FPhysicsConvexData::NumFaces is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.03.09-04.15.40:357][  0]LogClass: Display: FloatProperty FPhysicsCapsuleData::Radius is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.03.09-04.15.40:357][  0]LogClass: Display: FloatProperty FPhysicsCapsuleData::Length is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.03.09-04.15.40:357][  0]LogClass: Display: StructProperty FPhysicsBoxData::Dimensions is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.03.09-04.15.40:357][  0]LogClass: Display: FloatProperty FPhysicsSphereData::Radius is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.03.09-04.15.40:357][  0]LogClass: Display: EnumProperty FLODLevelGenerateSettings::TargetMode is not initialized properly. Module:MeshModelingToolsEditorOnly File:Public/GenerateLODMeshesTool.h
+[2022.03.09-04.15.40:357][  0]LogClass: Display: IntProperty FLODLevelGenerateSettings::TargetPercentage is not initialized properly. Module:MeshModelingToolsEditorOnly File:Public/GenerateLODMeshesTool.h
+[2022.03.09-04.15.40:357][  0]LogClass: Display: IntProperty FLODLevelGenerateSettings::TargetCount is not initialized properly. Module:MeshModelingToolsEditorOnly File:Public/GenerateLODMeshesTool.h
+[2022.03.09-04.15.40:357][  0]LogClass: Display: 9 Uninitialized script struct members found including 0 object properties
+[2022.03.09-04.15.40:359][  0]LogEngine: Initializing Engine...
+[2022.03.09-04.15.40:360][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.03.09-04.15.40:360][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.03.09-04.15.40:361][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.03.09-04.15.40:362][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.09-04.15.40:487][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.09-04.15.40:496][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.09-04.15.40:514][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.09-04.15.40:519][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.03.09-04.15.40:519][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.03.09-04.15.40:520][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.09-04.15.40:520][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.09-04.15.40:520][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.09-04.15.40:520][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.09-04.15.40:520][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.09-04.15.40:520][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.09-04.15.40:520][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.09-04.15.40:520][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.09-04.15.40:520][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.09-04.15.40:520][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.09-04.15.40:520][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.09-04.15.40:520][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.09-04.15.40:520][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.09-04.15.40:520][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.09-04.15.40:536][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.09-04.15.40:536][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.09-04.15.40:698][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.09-04.15.40:702][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.09-04.15.40:704][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.09-04.15.40:704][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.09-04.15.40:705][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.09-04.15.40:705][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.09-04.15.40:705][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.09-04.15.40:707][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.09-04.15.40:707][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.09-04.15.40:707][  0]LogInit: FAudioDevice initialized.
+[2022.03.09-04.15.40:707][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.09-04.15.40:707][  0]LogNetVersion: Set ProjectVersion to 4.1. Version Checksum will be recalculated on next use.
+[2022.03.09-04.15.40:799][  0]LogDerivedDataCache: Saved boot cache 0.09s 120MB C:/Users/chira/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.09-04.15.40:801][  0]LogInit: Texture streaming: Enabled
+[2022.03.09-04.15.40:816][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.03.09-04.15.40:820][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.09-04.15.40:820][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.03.09-04.15.40:824][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.03.09-04.15.40:855][  0]LogInit: Transaction tracking system initialized
+[2022.03.09-04.15.40:879][  0]BlueprintLog: New page: Editor Load
+[2022.03.09-04.15.40:940][  0]LocalizationService: Localization service is disabled
+[2022.03.09-04.15.40:970][  0]TimingProfiler: Initialize
+[2022.03.09-04.15.40:971][  0]TimingProfiler: OnSessionChanged
+[2022.03.09-04.15.40:971][  0]LoadingProfiler: Initialize
+[2022.03.09-04.15.40:971][  0]LoadingProfiler: OnSessionChanged
+[2022.03.09-04.15.40:971][  0]NetworkingProfiler: Initialize
+[2022.03.09-04.15.40:971][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.09-04.15.40:971][  0]MemoryProfiler: Initialize
+[2022.03.09-04.15.40:971][  0]MemoryProfiler: OnSessionChanged
+[2022.03.09-04.15.40:975][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_11'
+[2022.03.09-04.15.40:975][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_11
+[2022.03.09-04.15.41:256][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.03.09-04.15.41:256][  0]LogCook: Display: Mobile HDR setting 1
+[2022.03.09-04.15.41:469][  0]LogFileCache: Scanning file cache for directory 'C:/Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/' took 0.02s
+[2022.03.09-04.15.41:469][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.09-04.15.41:473][  0]SourceControl: Source control is disabled
+[2022.03.09-04.15.41:473][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.253
+[2022.03.09-04.15.41:474][  0]Cmd: MAP LOAD FILE="../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.09-04.15.41:480][  0]LightingResults: New page: Lighting Build
+[2022.03.09-04.15.41:481][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-04.15.41:481][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-04.15.41:481][  0]MapCheck: New page: Map Check
+[2022.03.09-04.15.41:481][  0]LightingResults: New page: Lighting Build
+[2022.03.09-04.15.41:487][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.09-04.15.41:491][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.03.09-04.15.46:541][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'LearningKit_Games_Showcase'.
+[2022.03.09-04.15.46:541][  0]LogAIModule: Creating AISystem for world LearningKit_Games_Showcase
+[2022.03.09-04.15.48:406][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.09-04.15.48:422][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.03.09-04.15.48:422][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.09-04.15.48:423][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.311ms to complete.
+[2022.03.09-04.15.48:423][  0]LogFileHelpers: Loading map 'LearningKit_Games_Showcase' took 6.950
+[2022.03.09-04.15.48:425][  0]LogUnrealEdMisc: Total Editor Startup Time, took 14.205
+[2022.03.09-04.15.48:582][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.09-04.15.48:588][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.09-04.15.48:594][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.09-04.15.48:600][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.09-04.15.48:621][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0107 seconds. Added 4200 classes and 956 folders.
+[2022.03.09-04.15.48:624][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.09-04.15.48:632][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.09-04.15.48:632][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:632][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.09-04.15.48:632][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:633][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.03.09-04.15.48:633][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2022.03.09-04.15.48:640][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.09-04.15.48:641][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:641][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.09-04.15.48:641][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:641][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.03.09-04.15.48:641][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2022.03.09-04.15.48:647][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.03.09-04.15.48:647][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:647][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.03.09-04.15.48:647][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:647][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.03.09-04.15.48:647][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2022.03.09-04.15.48:653][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.09-04.15.48:653][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:653][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.09-04.15.48:653][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:653][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.03.09-04.15.48:653][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.03.09-04.15.48:660][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.09-04.15.48:661][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:661][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.09-04.15.48:661][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:661][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.03.09-04.15.48:661][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.03.09-04.15.48:667][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.09-04.15.48:667][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:667][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.09-04.15.48:667][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:667][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.03.09-04.15.48:667][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.03.09-04.15.48:673][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.09-04.15.48:673][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:673][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.09-04.15.48:673][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:673][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.03.09-04.15.48:673][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.03.09-04.15.48:678][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.09-04.15.48:679][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:679][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.09-04.15.48:679][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:679][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.03.09-04.15.48:679][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.03.09-04.15.48:685][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.09-04.15.48:685][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:685][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.09-04.15.48:685][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:685][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.03.09-04.15.48:685][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2022.03.09-04.15.48:692][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.09-04.15.48:692][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:692][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.09-04.15.48:692][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:692][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.03.09-04.15.48:692][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2022.03.09-04.15.48:698][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.09-04.15.48:698][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:698][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.09-04.15.48:698][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:698][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.03.09-04.15.48:698][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2022.03.09-04.15.48:704][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.09-04.15.48:704][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:704][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.09-04.15.48:704][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:704][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.03.09-04.15.48:704][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.03.09-04.15.48:709][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.09-04.15.48:709][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:710][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.09-04.15.48:710][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:710][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.03.09-04.15.48:710][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2022.03.09-04.15.48:716][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.09-04.15.48:716][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:716][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.09-04.15.48:716][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:716][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.03.09-04.15.48:716][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2022.03.09-04.15.48:722][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.09-04.15.48:722][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:722][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.09-04.15.48:722][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:722][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.03.09-04.15.48:722][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2022.03.09-04.15.48:728][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.09-04.15.48:728][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:728][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.09-04.15.48:728][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:728][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.03.09-04.15.48:728][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.03.09-04.15.48:735][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.09-04.15.48:735][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:735][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.09-04.15.48:735][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:735][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.03.09-04.15.48:735][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2022.03.09-04.15.48:741][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.09-04.15.48:741][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:741][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.09-04.15.48:741][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:741][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.03.09-04.15.48:741][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.03.09-04.15.48:748][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.09-04.15.48:748][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:748][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.09-04.15.48:748][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:748][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.03.09-04.15.48:748][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2022.03.09-04.15.48:757][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.09-04.15.48:757][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:757][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.09-04.15.48:757][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:757][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.03.09-04.15.48:757][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2022.03.09-04.15.48:763][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.09-04.15.48:763][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:763][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.09-04.15.48:763][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:763][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.03.09-04.15.48:763][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.03.09-04.15.48:768][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.09-04.15.48:768][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:768][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.09-04.15.48:768][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:768][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.03.09-04.15.48:768][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2022.03.09-04.15.48:774][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.03.09-04.15.48:774][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:775][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.03.09-04.15.48:775][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:775][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.03.09-04.15.48:775][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2022.03.09-04.15.48:782][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.09-04.15.48:782][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:782][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.09-04.15.48:782][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:782][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.03.09-04.15.48:782][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2022.03.09-04.15.48:788][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.09-04.15.48:788][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:788][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.09-04.15.48:788][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:788][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.03.09-04.15.48:788][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2022.03.09-04.15.48:795][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.09-04.15.48:795][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.09-04.15.48:795][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.09-04.15.48:795][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.09-04.15.48:795][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.03.09-04.15.48:795][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.03.09-04.15.48:967][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.09-04.15.48:969][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.03.09-04.15.49:110][  0]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.09-04.15.49:118][  0]LogSlate: Took 0.006243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.09-04.15.49:119][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.09-04.15.49:280][  0]LogRenderer: Reallocating scene render targets to support 832x432 Format 10 NumSamples 1 (Frame:1).
+[2022.03.09-04.15.49:297][  0]LogStaticMesh: Allocated 512x217x128 distance field atlas = 27.1Mb, with 84 objects containing 17.2Mb backing data
+[2022.03.09-04.15.49:874][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.09-04.15.49:874][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.03.09-04.15.49:874][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.03.09-04.15.49:874][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.03.09-04.15.49:874][  0]LogLoad: (Engine Initialization) Total time: 15.65 seconds
+[2022.03.09-04.15.49:874][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.09-04.15.49:989][  0]LogAssetRegistry: Asset discovery search completed in 12.3206 seconds
+[2022.03.09-04.15.49:995][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2022.03.09-04.15.49:996][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.09-04.15.50:015][  0]LogSlate: Took 0.006280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.09-04.15.50:124][  2]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.09-04.16.03:222][335]LogSlate: Window 'Message Log' being destroyed
+[2022.03.09-04.16.03:230][335]LogSlate: Window 'Message Log' being destroyed
+[2022.03.09-04.16.25:966][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.03.09-04.16.25:969][872]Cmd: MAP LOAD FILE="../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Maps/Flypoint.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.09-04.16.26:005][872]LightingResults: New page: Lighting Build
+[2022.03.09-04.16.26:005][872]LoadErrors: New page: Loading map: Flypoint.umap
+[2022.03.09-04.16.26:010][872]LogWorld: UWorld::CleanupWorld for LearningKit_Games_Showcase, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-04.16.26:011][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-04.16.26:011][872]MapCheck: New page: Map Check
+[2022.03.09-04.16.26:011][872]LightingResults: New page: Lighting Build
+[2022.03.09-04.16.26:017][872]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.09-04.16.26:023][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.03.09-04.16.26:025][872]LogAudio: Display: Audio Device (ID: 1) registered with world 'Flypoint'.
+[2022.03.09-04.16.28:081][872]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.09-04.16.28:081][872]LogAIModule: Creating AISystem for world Flypoint
+[2022.03.09-04.16.28:100][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.03.09-04.16.28:116][872]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.09-04.16.28:117][872]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.243ms to complete.
+[2022.03.09-04.16.28:117][872]LogFileHelpers: Loading map 'Flypoint' took 2.148
+[2022.03.09-04.16.28:117][872]LogSlate: Window 'Open Level' being destroyed
+[2022.03.09-04.17.01:689][113]LogEditorViewport: Clicking on Actor (LMB): BP_LearningKit_PlayerCharacter_C (BP_LearningKit_PlayerCharacter)
+[2022.03.09-04.17.02:405][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.03.09-04.17.03:201][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.03.09-04.17.05:932][177]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Follower.BP_Follower
+[2022.03.09-04.17.06:714][177]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.03.09-04.17.07:646][177]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.09-04.17.07:900][179]LogStaticMesh: Allocated 512x261x128 distance field atlas = 32.6Mb, with 85 objects containing 17.5Mb backing data
+[2022.03.09-04.17.07:923][179]LogSlate: Took 0.006458 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.09-04.17.48:995][825]LogSlate: Window 'BP_Follower' being destroyed
+[2022.03.09-04.17.49:006][825]LogSlate: Window 'BP_Follower' being destroyed
+[2022.03.09-04.17.49:009][825]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-04.17.49:009][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-04.17.52:062][906]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/Enemy1.Enemy1
+[2022.03.09-04.17.56:393][987]LogSlate: Window 'Enemy1' being destroyed
+[2022.03.09-04.17.56:405][987]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-04.17.56:405][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-04.17.58:085][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.03.09-04.18.00:087][ 22]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.09-04.18.00:206][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.03.09-04.18.00:236][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.03.09-04.18.00:253][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.03.09-04.18.03:628][171]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.09-04.18.05:124][171]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.09-04.18.05:145][171]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.03.09-04.18.05:159][171]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.03.09-04.18.09:420][240]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Enemy
+[2022.03.09-04.18.09:426][240]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.03.09-04.18.10:344][252]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Enemy.BP_Enemy
+[2022.03.09-04.18.10:816][252]LogRenderer: Reallocating scene render targets to support 892x540 Format 10 NumSamples 1 (Frame:1).
+[2022.03.09-04.19.48:036][650]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Follower.BP_Follower
+[2022.03.09-04.21.35:678][160]LogEditorTransaction: Undo Paste Component(s)
+[2022.03.09-04.22.34:606][230]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/BP_Enemy4321836D4CC8907A430630ADB97ECCB2.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Enemy.uasset'
+[2022.03.09-04.22.34:631][230]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.03.09-04.22.34:631][230]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Enemy.BP_Enemy
+[2022.03.09-04.23.32:555][171]LogEditorTransaction: Undo Paste Component(s)
+[2022.03.09-04.23.33:660][210]LogEditorTransaction: Undo Remove Components
+[2022.03.09-04.24.02:851][660]LogEditorTransaction: Undo Remove Components
+[2022.03.09-04.24.03:725][689]LogEditorTransaction: Undo Modify Component(s)
+[2022.03.09-04.24.50:706][947]LogEditorTransaction: Undo Add Component
+[2022.03.09-04.24.53:450][ 12]LogEditorTransaction: Redo Add Component
+[2022.03.09-04.25.04:496][180]LogEditorTransaction: Undo Modify Component(s)
+[2022.03.09-04.25.34:125][665]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/BP_Enemy5C758F2043E76EB2ECEE8F8A063F7C69.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Enemy.uasset'
+[2022.03.09-04.25.34:141][665]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.03.09-04.25.34:141][665]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Enemy.BP_Enemy
+[2022.03.09-04.25.35:522][687]BlueprintLog: New page: Compile BP_Enemy
+[2022.03.09-04.25.35:578][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.03.09-04.26.24:485][117]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/BP_Enemy4B3F26074272788A6B6C46B35F32FF64.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Enemy.uasset'
+[2022.03.09-04.26.24:500][117]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.03.09-04.26.24:500][117]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Enemy.BP_Enemy
+[2022.03.09-04.26.25:029][128]BlueprintLog: New page: Compile BP_Enemy
+[2022.03.09-04.26.25:074][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.03.09-04.26.44:913][567]LogMaterial: Display: Missing cached shadermap for M_BlockBase in PCD3D_SM5, Default, SM5 (DDC key hash: 0C3909D1EF6B14B4A226E9AEFF768B55364BC9E6), compiling. 
+[2022.03.09-04.26.44:957][567]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.03.09-04.26.44:960][567]LogMaterial: Display: Material /Game/BlockGame/Materials/M_BlockBase.M_BlockBase needed to have new flag set bUsedWithSkeletalMesh !
+[2022.03.09-04.26.44:962][567]LogMaterial: Display: Missing cached shadermap for M_BlockBase in PCD3D_SM5, Default, SM5 (DDC key hash: 4755C9259DA5463C8DB3F8E2F3609DD91EB2CD6F), compiling. 
+[2022.03.09-04.26.44:991][567]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2022.03.09-04.26.45:030][568]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2022.03.09-04.26.45:030][568]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2022.03.09-04.26.45:030][568]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2022.03.09-04.26.45:030][568]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2022.03.09-04.26.45:030][568]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Low' priority
+[2022.03.09-04.26.48:067][604]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.03.09-04.26.48:067][604]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.09-04.26.48:108][604]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.09-04.26.48:108][604]LogShaderCompilers: Display: Total job queries 80, among them cache hits 0 (0.00%)
+[2022.03.09-04.26.48:108][604]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 9 distinct outputs (90.00%)
+[2022.03.09-04.26.48:108][604]LogShaderCompilers: Display: RAM used: 0.04 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.03.09-04.26.48:108][604]LogShaderCompilers: Display: ================================================
+[2022.03.09-04.26.48:430][608]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2022.03.09-04.26.48:430][608]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.09-04.26.48:767][611]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2022.03.09-04.26.48:767][611]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.09-04.26.48:981][614]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2022.03.09-04.26.48:981][614]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.09-04.26.49:083][615]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2022.03.09-04.26.49:083][615]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.09-04.26.49:278][616]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.03.09-04.26.49:278][616]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.09-04.27.01:353][811]LogMaterial: Display: Missing cached shadermap for M_unsharpmask_POST in PCD3D_SM5, Default, SM5 (DDC key hash: 10371A1DD1C21598336D0E62BF40F179136C47E0), compiling. 
+[2022.03.09-04.27.01:370][811]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Low' priority
+[2022.03.09-04.27.01:371][811]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.27.01:372][811]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.27.01:373][811]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.27.01:374][811]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.27.01:375][811]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.27.01:376][811]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.27.01:381][811]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2022.03.09-04.27.01:381][811]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2022.03.09-04.27.01:381][811]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.03.09-04.27.01:381][811]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2022.03.09-04.27.01:381][811]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.27.02:131][820]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.27.02:132][820]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.27.02:223][821]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.27.02:223][821]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.27.06:388][898]LogTexture: Display: Building textures: T_Noise (OODLE_AutoDXT, 4096X4096)
+[2022.03.09-04.27.06:388][898]LogMaterial: Display: Missing cached shadermap for M_TwinklingStars in PCD3D_SM5, Default, SM5 (DDC key hash: DA830E932A1D08433509F40836C5142EE5675AC8), compiling. 
+[2022.03.09-04.27.06:414][898]LogShaderCompilers: Display: Submitted 33 shader compile jobs with 'Low' priority
+[2022.03.09-04.27.06:416][898]LogMaterial: Display: Material /Game/LearningKit_Games/Assets/VFX/Dependencies/Materials/M_TwinklingStars.M_TwinklingStars needed to have new flag set bUsedWithSkeletalMesh !
+[2022.03.09-04.27.06:417][898]LogMaterial: Display: Missing cached shadermap for M_TwinklingStars in PCD3D_SM5, Default, SM5 (DDC key hash: 64E6165CADFB38A0D971946DBF7FAD1D69DC31A4), compiling. 
+[2022.03.09-04.27.06:440][898]LogShaderCompilers: Display: Submitted 44 shader compile jobs with 'Low' priority
+[2022.03.09-04.27.06:441][898]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2022.03.09-04.27.06:441][898]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2022.03.09-04.27.06:441][898]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2022.03.09-04.27.06:441][898]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2022.03.09-04.27.06:441][898]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Low' priority
+[2022.03.09-04.27.08:845][927]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2022.03.09-04.27.08:845][927]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.09-04.27.09:275][931]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.27.09:276][931]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.27.09:277][931]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.27.09:279][931]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.27.09:281][931]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.27.09:284][931]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.27.09:294][931]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.27.09:412][933]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.03.09-04.27.09:412][933]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.09-04.27.09:463][934]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.03.09-04.27.09:463][934]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.09-04.27.10:068][939]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.27.10:996][952]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/BP_Enemy6BEE783A4C0805085696969137D78F76.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Enemy.uasset'
+[2022.03.09-04.27.11:013][952]AssetCheck: New page: Asset Save: BP_Enemy
+[2022.03.09-04.27.11:013][952]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Enemy.BP_Enemy
+[2022.03.09-04.27.52:864][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.03.09-04.27.52:867][811]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LearningKit_Games/Maps/Flypoint' took 0.031
+[2022.03.09-04.27.52:868][811]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BlockGame/Materials/M_BlockBase] ([1] browsable assets)...
+[2022.03.09-04.27.52:887][811]OBJ SavePackage:     Rendered thumbnail for [Material /Game/BlockGame/Materials/M_BlockBase.M_BlockBase]
+[2022.03.09-04.27.52:887][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlockGame/Materials/M_BlockBase]
+[2022.03.09-04.27.52:893][811]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/M_BlockBase_Auto177CA35D44ADB309DD47B8495B57DF830.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Autosaves/Game/BlockGame/Materials/M_BlockBase_Auto1.uasset'
+[2022.03.09-04.27.52:894][811]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LearningKit_Games/Assets/VFX/Dependencies/Materials/M_TwinklingStars] ([1] browsable assets)...
+[2022.03.09-04.27.52:920][811]OBJ SavePackage:     Rendered thumbnail for [Material /Game/LearningKit_Games/Assets/VFX/Dependencies/Materials/M_TwinklingStars.M_TwinklingStars]
+[2022.03.09-04.27.52:920][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Assets/VFX/Dependencies/Materials/M_TwinklingStars]
+[2022.03.09-04.27.52:927][811]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/M_TwinklingStars_Auto1BA380BAB4B0570F1C77BB0AB76BFAD37.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Autosaves/Game/LearningKit_Games/Assets/VFX/Dependencies/Materials/M_TwinklingStars_Auto1.uasset'
+[2022.03.09-04.27.52:928][811]LogFileHelpers: Auto-saving content packages took 0.062
+[2022.03.09-04.29.46:123][388]LogEditorTransaction: Undo Replace component used material
+[2022.03.09-04.32.45:608][947]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/BP_FollowerA0D0D3D54401AC59581D6586CC27F5B8.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Follower.uasset'
+[2022.03.09-04.32.45:629][947]AssetCheck: New page: Asset Save: BP_Follower
+[2022.03.09-04.32.45:629][947]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Follower.BP_Follower
+[2022.03.09-04.32.47:759][984]BlueprintLog: New page: Compile BP_Follower
+[2022.03.09-04.32.47:826][984]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.03.09-04.34.12:444][576]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.34.12:446][576]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.34.12:446][576]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.34.15:102][616]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/BP_Follower87B598C44214DCD8235F8CA69358EF1A.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Follower.uasset'
+[2022.03.09-04.34.15:119][616]AssetCheck: New page: Asset Save: BP_Follower
+[2022.03.09-04.34.15:119][616]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Follower.BP_Follower
+[2022.03.09-04.34.15:572][624]BlueprintLog: New page: Compile BP_Follower
+[2022.03.09-04.34.15:601][624]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.34.15:603][624]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.34.15:603][624]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.34.15:604][624]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.34.15:604][624]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.34.15:605][624]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.34.15:649][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.03.09-04.34.15:652][624]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.34.15:653][624]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.34.15:654][624]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.34.15:654][624]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.34.15:659][624]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.34.15:660][624]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.34.15:661][624]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.34.15:707][624]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.36.34:459][361]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.36.34:462][361]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.36.34:463][361]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.36.38:228][429]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.36.38:230][429]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.36.38:231][429]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.36.39:923][457]LogSlate: Took 0.006066 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.03.09-04.36.41:443][547]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.36.41:445][547]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.36.41:446][547]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.36.46:903][647]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.36.46:905][647]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.36.46:906][647]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.37.08:685][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.03.09-04.37.11:481][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.03.09-04.37.11:591][ 14]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Flypoint546339CC4792EBFA648A0DAB5B9319BF.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Maps/Flypoint.umap'
+[2022.03.09-04.37.12:246][ 14]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Flypoint_BuiltData3DAB60A440638C539BF3F4A81D8CBBAD.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Maps/Flypoint_BuiltData.uasset'
+[2022.03.09-04.37.12:272][ 14]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.09-04.37.12:272][ 14]LogContentValidation: Display: Validating World /Game/LearningKit_Games/Maps/Flypoint.Flypoint
+[2022.03.09-04.37.12:272][ 14]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/LearningKit_Games/Maps/Flypoint_BuiltData.Flypoint_BuiltData
+[2022.03.09-04.37.17:416][114]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/BP_Follower5B1F1A4D4186939214868CA676FC4985.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Follower.uasset'
+[2022.03.09-04.37.17:434][114]AssetCheck: New page: Asset Save: BP_Follower
+[2022.03.09-04.37.17:434][114]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Follower.BP_Follower
+[2022.03.09-04.37.19:089][145]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-04.37.19:089][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-04.37.25:974][266]BlueprintLog: New page: Compile BP_Follower
+[2022.03.09-04.37.25:986][266]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.37.25:987][266]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.37.25:988][266]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.37.25:989][266]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.37.25:990][266]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.37.25:991][266]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.37.26:027][266]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.03.09-04.37.26:032][266]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.37.26:034][266]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.37.26:035][266]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.37.26:035][266]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.37.26:041][266]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.37.26:042][266]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.37.26:043][266]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.37.43:213][579]Cmd: TRANSACTION UNDO
+[2022.03.09-04.37.43:213][579]LogEditorTransaction: Undo Create Actors
+[2022.03.09-04.37.45:373][650]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.37.45:375][650]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.37.45:377][650]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.37.46:251][665]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.37.46:253][665]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.37.46:291][665]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.37.58:753][922]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.38.17:379][220]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/BP_FollowerB31B20E24C85EFBB9F9C1F9D83DFD067.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Follower.uasset'
+[2022.03.09-04.38.17:395][220]AssetCheck: New page: Asset Save: BP_Follower
+[2022.03.09-04.38.17:395][220]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Follower.BP_Follower
+[2022.03.09-04.38.20:212][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.03.09-04.38.21:145][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.03.09-04.38.22:372][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.03.09-04.38.23:192][340]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.03.09-04.38.27:714][447]Cmd: TRANSACTION UNDO
+[2022.03.09-04.38.27:714][447]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.09-04.38.28:638][484]Cmd: TRANSACTION UNDO
+[2022.03.09-04.38.28:638][484]LogEditorTransaction: Undo Replace component used material
+[2022.03.09-04.38.28:640][484]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.38.28:641][484]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.38.28:642][484]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.38.30:254][519]Cmd: TRANSACTION UNDO
+[2022.03.09-04.38.30:254][519]LogEditorTransaction: Undo Create Actors
+[2022.03.09-04.38.32:119][561]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.38.32:121][561]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.38.32:122][561]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.38.33:164][584]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.38.33:166][584]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.38.33:203][584]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.38.38:002][700]Cmd: TRANSACTION UNDO
+[2022.03.09-04.38.38:002][700]LogEditorTransaction: Undo Create Actors
+[2022.03.09-04.38.41:223][784]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.38.51:233][926]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/BP_Follower0BEF349C49472FB94C84869E664BCA86.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Follower.uasset'
+[2022.03.09-04.38.51:252][926]AssetCheck: New page: Asset Save: BP_Follower
+[2022.03.09-04.38.51:252][926]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Follower.BP_Follower
+[2022.03.09-04.38.52:715][947]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/BP_Follower63BC9A9F44AEC7607BCC8C84A00A9291.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Follower.uasset'
+[2022.03.09-04.38.52:734][947]AssetCheck: New page: Asset Save: BP_Follower
+[2022.03.09-04.38.52:734][947]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Follower.BP_Follower
+[2022.03.09-04.39.12:118][286]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/BP_FollowerFD26E5854D937D586486A6B12E5B7E86.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Follower.uasset'
+[2022.03.09-04.39.12:135][286]AssetCheck: New page: Asset Save: BP_Follower
+[2022.03.09-04.39.12:135][286]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Follower.BP_Follower
+[2022.03.09-04.39.12:906][298]BlueprintLog: New page: Compile BP_Follower
+[2022.03.09-04.39.12:959][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.03.09-04.39.18:385][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.03.09-04.39.19:313][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.03.09-04.39.19:961][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.03.09-04.39.20:524][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.03.09-04.39.20:934][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.03.09-04.39.21:307][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.03.09-04.39.21:639][470]LogEditorViewport: Clicking on Actor (LMB): BP_Follower_C (BP_Follower)
+[2022.03.09-04.39.28:404][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.03.09-04.39.29:604][642]Cmd: TRANSACTION UNDO
+[2022.03.09-04.39.29:604][642]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.09-04.39.30:215][660]Cmd: TRANSACTION UNDO
+[2022.03.09-04.39.30:215][660]LogEditorTransaction: Undo Move Actors
+[2022.03.09-04.39.30:836][686]Cmd: TRANSACTION UNDO
+[2022.03.09-04.39.30:836][686]LogEditorTransaction: Undo Create Actors
+[2022.03.09-04.39.31:904][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.03.09-04.39.38:068][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.03.09-04.39.38:755][845]LogEditorViewport: Clicking on Actor (LMB): BP_Follower_C (BP_Follower)
+[2022.03.09-04.39.39:627][861]LogEditorViewport: Clicking on Actor (LMB): BP_Follower_C (BP_Follower)
+[2022.03.09-04.39.49:179][996]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/BP_Follower5FF2DDD84C63F64B2B10F695DFC5A9B3.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Follower.uasset'
+[2022.03.09-04.39.49:196][996]AssetCheck: New page: Asset Save: BP_Follower
+[2022.03.09-04.39.49:196][996]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Follower.BP_Follower
+[2022.03.09-04.39.49:564][  2]BlueprintLog: New page: Compile BP_Follower
+[2022.03.09-04.39.49:687][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.03.09-04.39.57:822][143]LogSlate: Window 'BP_Follower' being destroyed
+[2022.03.09-04.39.57:833][143]LogSlate: Window 'BP_Follower' being destroyed
+[2022.03.09-04.39.57:838][143]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.09-04.39.57:838][143]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-04.39.57:838][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-04.39.59:367][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.03.09-04.40.00:892][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.03.09-04.40.02:504][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.03.09-04.40.03:304][247]Cmd: TRANSACTION UNDO
+[2022.03.09-04.40.03:304][247]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.09-04.40.04:097][275]Cmd: TRANSACTION UNDO
+[2022.03.09-04.40.04:097][275]LogEditorTransaction: Undo Remove Components
+[2022.03.09-04.40.04:911][295]Cmd: TRANSACTION UNDO
+[2022.03.09-04.40.04:912][295]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.09-04.40.05:462][303]Cmd: TRANSACTION UNDO
+[2022.03.09-04.40.05:462][303]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.09-04.40.06:060][313]Cmd: TRANSACTION UNDO
+[2022.03.09-04.40.06:060][313]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.09-04.40.06:563][321]Cmd: TRANSACTION UNDO
+[2022.03.09-04.40.06:563][321]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.09-04.40.07:045][329]Cmd: TRANSACTION UNDO
+[2022.03.09-04.40.07:045][329]LogEditorTransaction: Undo Create Actors
+[2022.03.09-04.40.09:912][364]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/BP_FollowerA6DD54ED46848BED124B6AA0AC04F3C4.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Follower.uasset'
+[2022.03.09-04.40.09:928][364]AssetCheck: New page: Asset Save: BP_Follower
+[2022.03.09-04.40.09:929][364]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Follower.BP_Follower
+[2022.03.09-04.40.21:201][605]Cmd: TRANSACTION UNDO
+[2022.03.09-04.40.21:201][605]LogEditorTransaction: Undo Create Actors
+[2022.03.09-04.40.21:826][623]Cmd: TRANSACTION UNDO
+[2022.03.09-04.40.21:827][623]LogEditorTransaction: Undo Modify Component(s)
+[2022.03.09-04.40.22:436][648]Cmd: TRANSACTION UNDO
+[2022.03.09-04.40.22:436][648]LogEditorTransaction: Undo Remove Components
+[2022.03.09-04.40.23:016][657]Cmd: TRANSACTION UNDO
+[2022.03.09-04.40.23:016][657]LogEditorTransaction: Undo Replace component used material
+[2022.03.09-04.40.23:069][657]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.40.23:070][657]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.40.30:294][746]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2022.03.09-04.40.32:433][780]LogSlate: Window 'BP_LearningKit_PlayerCharacter' being destroyed
+[2022.03.09-04.40.32:442][780]LogSlate: Window 'BP_LearningKit_PlayerCharacter' being destroyed
+[2022.03.09-04.40.32:447][780]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-04.40.32:447][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-04.40.37:378][942]LogContentBrowser: Deferred new asset file creation: BP_LearningKit_PlayerCharacter1
+[2022.03.09-04.40.37:397][942]LogContentBrowser: Creating deferred item: BP_LearningKit_PlayerCharacter1
+[2022.03.09-04.40.41:075][989]LogContentBrowser: Attempting asset rename: BP_LearningKit_PlayerCharacter1 -> BP
+[2022.03.09-04.40.41:236][989]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.03.09-04.40.41:285][989]LogContentBrowser: End creating deferred item BP_LearningKit_PlayerCharacter1
+[2022.03.09-04.40.42:727][  7]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP.BP
+[2022.03.09-04.45.52:050][363]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/BP5D25CE2E41E4B1F8EF7C8D9DD84DA689.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP.uasset'
+[2022.03.09-04.45.52:071][363]AssetCheck: New page: Asset Save: BP
+[2022.03.09-04.45.52:071][363]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP.BP
+[2022.03.09-04.46.19:300][282]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/BPF6101A894F250CC17F51AF84730BBCB7.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP.uasset'
+[2022.03.09-04.46.19:318][282]AssetCheck: New page: Asset Save: BP
+[2022.03.09-04.46.19:318][282]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP.BP
+[2022.03.09-04.46.44:238][632]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9D246EB721FFD6112555EA8E56B786302C22331F), compiling. 
+[2022.03.09-04.46.44:246][632]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.46.44:246][632]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.46.44:246][632]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.46.44:278][634]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.09-04.46.44:278][634]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.03.09-04.46.44:278][634]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.03.09-04.46.44:278][634]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.09-04.46.44:278][634]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2022.03.09-04.46.44:286][634]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2022.03.09-04.46.44:286][634]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2022.03.09-04.46.44:286][634]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.03.09-04.46.44:396][634]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 60BC70DF4AA7958D0E6D622BEC8A59FC804DFBEB), compiling. 
+[2022.03.09-04.46.44:406][634]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.46.44:406][634]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.46.44:406][634]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.SK_EpicCharacter_Optimized
+[2022.03.09-04.46.44:429][635]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.09-04.46.44:501][636]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2022.03.09-04.46.44:950][640]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.03.09-04.46.44:950][640]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.09-04.46.44:994][640]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.03.09-04.46.44:994][640]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.09-04.46.45:007][640]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.09-04.46.45:007][640]LogShaderCompilers: Display: Total job queries 236, among them cache hits 22 (9.32%)
+[2022.03.09-04.46.45:007][640]LogShaderCompilers: Display: Tracking 103 distinct input hashes that result in 65 distinct outputs (63.11%)
+[2022.03.09-04.46.45:007][640]LogShaderCompilers: Display: RAM used: 0.32 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2022.03.09-04.46.45:007][640]LogShaderCompilers: Display: ================================================
+[2022.03.09-04.46.45:061][641]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 41
+[2022.03.09-04.46.45:061][641]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.03.09-04.46.45:085][641]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2022.03.09-04.46.45:085][641]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.03.09-04.46.45:508][646]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2022.03.09-04.46.45:508][646]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.03.09-04.46.45:649][647]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2022.03.09-04.46.45:649][647]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.03.09-04.46.47:936][670]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2022.03.09-04.46.47:936][670]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.03.09-04.46.47:980][670]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.03.09-04.46.47:980][670]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.03.09-04.46.48:078][671]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2022.03.09-04.46.48:078][671]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.03.09-04.46.48:818][679]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.03.09-04.46.48:818][679]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.09-04.46.48:821][679]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.03.09-04.46.48:821][679]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.09-04.46.48:892][680]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.03.09-04.46.48:892][680]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.09-04.47.00:409][832]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/BlockGame/PlayerCharacter/BlockCharacter_AnimBP.BlockCharacter_AnimBP
+[2022.03.09-04.47.00:422][832]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.03.09-04.47.00:435][832]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.03.09-04.47.00:542][832]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.03.09-04.47.00:649][832]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.09-04.47.00:653][832]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2022.03.09-04.47.04:369][872]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-04.47.04:369][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-04.47.04:377][872]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-04.47.04:377][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-04.47.04:462][872]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-04.47.04:462][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-04.47.34:998][393]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2022.03.09-04.47.35:002][393]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LearningKit_Games/Maps/Flypoint' took 0.079
+[2022.03.09-04.47.35:002][393]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Enemy] ([4] browsable assets)...
+[2022.03.09-04.47.35:002][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Enemy]
+[2022.03.09-04.47.35:009][393]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/BP_Enemy_Auto223EF6B6D4EB60B27CE7B5885C53BBF8B.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Autosaves/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Enemy_Auto2.uasset'
+[2022.03.09-04.47.35:011][393]LogFileHelpers: Auto-saving content packages took 0.010
+[2022.03.09-04.51.17:392][288]BlueprintLog: New page: Compile BP
+[2022.03.09-04.51.17:493][288]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2022.03.09-04.51.18:740][304]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/BPC39B0A3A4FA2CD433D07A483D21FCB4F.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP.uasset'
+[2022.03.09-04.51.18:760][304]AssetCheck: New page: Asset Save: BP
+[2022.03.09-04.51.18:760][304]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP.BP
+[2022.03.09-04.52.21:833][970]BlueprintLog: New page: Compile BP
+[2022.03.09-04.52.21:935][970]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2022.03.09-04.53.00:260][235]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2022.03.09-04.53.00:381][235]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Flypoint45C6F95F4616525F547CB2AFA066B8A1.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Maps/Flypoint.umap'
+[2022.03.09-04.53.00:769][235]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Flypoint_BuiltData863DF48747271E1C6324E488EB35260E.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Maps/Flypoint_BuiltData.uasset'
+[2022.03.09-04.53.00:804][235]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.09-04.53.00:804][235]LogContentValidation: Display: Validating World /Game/LearningKit_Games/Maps/Flypoint.Flypoint
+[2022.03.09-04.53.00:804][235]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/LearningKit_Games/Maps/Flypoint_BuiltData.Flypoint_BuiltData
+[2022.03.09-04.53.10:209][252]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/BPDE8481C54203528AFB571F8B2CBC0B9C.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP.uasset'
+[2022.03.09-04.53.10:410][252]AssetCheck: New page: Asset Save: BP
+[2022.03.09-04.53.10:410][252]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP.BP
+[2022.03.09-04.54.02:338][707]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/BPABEB30F04DD6A812EA830BA4BEDD2694.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP.uasset'
+[2022.03.09-04.54.02:357][707]AssetCheck: New page: Asset Save: BP
+[2022.03.09-04.54.02:357][707]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP.BP
+[2022.03.09-04.54.23:526][235]LogEditorTransaction: Undo Modify Component(s)
+[2022.03.09-04.54.24:836][273]LogEditorTransaction: Undo Add Component
+[2022.03.09-04.54.51:510][713]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/BP808DFE0E4B5283B4002801ACA9F74126.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP.uasset'
+[2022.03.09-04.54.51:528][713]AssetCheck: New page: Asset Save: BP
+[2022.03.09-04.54.51:528][713]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP.BP
+[2022.03.09-04.54.52:445][725]BlueprintLog: New page: Compile BP
+[2022.03.09-04.54.52:636][725]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2022.03.09-04.58.31:146][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.03.09-04.58.32:163][363]LogEditorViewport: Clicking on Actor (LMB): BP_C (BP)
+[2022.03.09-04.58.42:722][519]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.03.09-04.58.50:554][668]LogEditorViewport: Clicking on Actor (LMB): BP_C (BP)
+[2022.03.09-04.58.55:874][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FloatingIsland_L_Island6)
+[2022.03.09-04.59.39:586][506]LogEditorTransaction: Undo Add Node
+[2022.03.09-05.00.19:299][857]LogEditorTransaction: Undo Add Node
+[2022.03.09-05.03.01:927][548]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2022.03.09-05.03.02:043][548]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Flypoint_Auto3049E44554F1BEC57766AA7A367853F49.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Autosaves/Game/LearningKit_Games/Maps/Flypoint_Auto3.umap'
+[2022.03.09-05.03.02:046][548]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LearningKit_Games/Maps/Flypoint' took 0.160
+[2022.03.09-05.03.02:046][548]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.160
+[2022.03.09-05.03.02:048][548]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP] ([4] browsable assets)...
+[2022.03.09-05.03.02:121][548]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP.BP]
+[2022.03.09-05.03.02:205][548]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP.BP]
+[2022.03.09-05.03.02:205][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP]
+[2022.03.09-05.03.02:298][548]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/BP_Auto3B0E6DB60431FB20C77E27C85768ABE54.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/Autosaves/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_Auto3.uasset'
+[2022.03.09-05.03.02:300][548]LogFileHelpers: Auto-saving content packages took 0.253
+[2022.03.09-05.05.46:801][713]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/BPA273F9654983492458C2099EAA03E45B.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP.uasset'
+[2022.03.09-05.05.46:819][713]AssetCheck: New page: Asset Save: BP
+[2022.03.09-05.05.46:819][713]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP.BP
+[2022.03.09-05.05.47:661][728]LogSavePackage: Moving '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Saved/BPF2B3580140F32F45175799BD65149575.tmp' to '../../../../../../Users/chira/Desktop/CS-498/LevelDesign/UnrealLearningKitGames/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP.uasset'
+[2022.03.09-05.05.47:679][728]AssetCheck: New page: Asset Save: BP
+[2022.03.09-05.05.47:679][728]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP.BP
+[2022.03.09-05.05.48:208][738]BlueprintLog: New page: Compile BP
+[2022.03.09-05.05.48:262][738]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.03.09-05.05.48:333][738]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.070 s
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: === Handled ensure: ===
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: 
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: Ensure condition failed: Component && (Component->GetOuter() == GeneratedClass) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Blueprint.cpp] [Line: 1225]
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: 
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: Stack: 
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff90ef8f979 UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff90d856dd6 UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff90ab261da UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff90aacc02f UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff90aacbd71 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff906f800de UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff90abcee7c UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff90abeca46 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff90c54cf28 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff90c572082 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff90c54ca87 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff90c5ea6fe UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff90c60280e UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff90c45421e UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff90c4ce104 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff90c4b7097 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff90c4a9b62 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff94a8ac025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff94a8992b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff94a8ae465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff94a894410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff972e4e858 USER32.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff972e4e4ee USER32.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff8e59d7e19 InkObj.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff948031298 atlthunk.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff972e4e858 USER32.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff972e4e299 USER32.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff94a8afcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff789ef7621 UE4Editor.exe!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff789f10fcc UE4Editor.exe!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff789f110ba UE4Editor.exe!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff789f140dd UE4Editor.exe!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff789f25984 UE4Editor.exe!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff789f2853a UE4Editor.exe!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff973767034 KERNEL32.DLL!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: [Callstack] 0x00007ff9739c2651 ntdll.dll!UnknownFunction []
+[2022.03.09-05.05.48:333][738]LogOutputDevice: Error: 
